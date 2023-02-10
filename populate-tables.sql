@@ -7,3 +7,4 @@ INSERT INTO student(name, ctclink)
 VALUES
 ('Max',987654),
 ('Moritz',456789);
+
